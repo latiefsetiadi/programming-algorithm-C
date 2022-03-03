@@ -1,0 +1,47 @@
+1
+Latief
+A11.2018.11376
+Kedokteran 
+2
+8
+alpro
+ifan
+A11.4212
+4
+	80.00	90.00	 A 	u	99.00	 A 	u	88.70	 A 
+bindo
+buana
+a11.4212
+2
+	90.00	90.00	 A 	u	90.00	 A 	u	90.00	 A 
+rld
+sutejo
+a11.4212
+2
+	90.00	90.00	 A 	u	90.00	 A 	u	90.00	 A 
+kakulus
+hoyyi
+a11.4212
+4
+	90.00	90.00	 A 	u	90.00	 A 	u	90.00	 A 
+fisika 
+gusti
+a11.4212
+4
+	90.00	90.00	 A 	u	90.00	 A 	u	90.00	 A 
+kwu
+buacun
+a11.4212
+2
+	90.00	90.00	 A 	u	90.00	 A 	u	90.00	 A 
+pkn
+tim dosen
+a11.4212
+2
+	90.00	90.00	 A 	u	90.00	 A 	u	90.00	 A 
+bing
+pak anu
+a11.4212
+4
+	90.00	90.00	 A 	u	90.00	 A 	u	90.00	 A 
+4.00

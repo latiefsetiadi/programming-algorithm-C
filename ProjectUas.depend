@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1562762040 source:h:\algoritma pemrograman\projectuas\main.c
+	"pustaka.h"
+
+1562765150 h:\algoritma pemrograman\projectuas\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562764762 source:h:\algoritma pemrograman\projectuas\pustaka.c
+	"pustaka.h"
+
+1562558976 source:i:\algoritma pemrograman\projectuas\main.c
+	"pustaka.h"
+
+1562558920 i:\algoritma pemrograman\projectuas\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562558958 source:i:\algoritma pemrograman\projectuas\pustaka.c
+	"pustaka.h"
+
+1562765122 source:c:\users\windows\documents\algoritma pemrograman\projectuas\main.c
+	"pustaka.h"
+
+1562765150 c:\users\windows\documents\algoritma pemrograman\projectuas\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562764762 source:c:\users\windows\documents\algoritma pemrograman\projectuas\pustaka.c
+	"pustaka.h"
+
+1562765122 source:c:\users\windows\onedrive\pictures\documents\algoritma pemrograman\projectuas\main.c
+	"pustaka.h"
+
+1562765150 c:\users\windows\onedrive\pictures\documents\algoritma pemrograman\projectuas\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562764762 source:c:\users\windows\onedrive\pictures\documents\algoritma pemrograman\projectuas\pustaka.c
+	"pustaka.h"
+
